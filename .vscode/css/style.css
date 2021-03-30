@@ -1,0 +1,102 @@
+body{ 
+
+    background-color: black;max-width:600px;height:1000px;
+    
+  
+  }
+  .card-post{
+    position:absolute; top:80%;left: 50%;transform:translate(-50%,-50%);
+  background-color:white; width:400px;height:800px;margin: auto;
+  
+  
+  padding:15px;
+    object-fit: contain;
+
+
+}
+  
+  
+  .fuente{ 
+      position: absolute; top:5%; 
+    border: 1px solid black;
+    width: 400px;
+    margin: 0 ;
+    background-color:white;
+    display:flex;
+  
+    font-size: 10px;
+         float: center;
+  
+  }
+  .name{
+      font-size: 15px;
+      margin: 0 ;
+      float:center;
+  
+  }
+  .fuente2{
+    border: 1px solid black;
+    margin: 0px 1px;
+    background-color: white;
+    max-width: 100px;
+    display:flex;
+    float:center;
+  }
+  .gallery-img {
+    width: 400px;
+    height: 50px;
+    float:center;
+    position:absolute; top:20%;left: 50%;transform:translate(-50%,-50%);
+  }
+  .body-html{ 
+    width: 400px;;
+    height: 40px;
+    float:center;
+    margin-bottom: 18px;
+    position:absolute; top:80%;left: 50%;transform:translate(-50%,-50%);
+  }
+  .marca{margin-left: auto;}
+.simbolitos{
+    
+    width: 400px;;
+    height: 40px;
+    float:center;
+    margin-bottom: 18px;
+    position:absolute; top:20%;left: 50%;transform:translate(-50%,-50%);
+  }
+.parrafo{
+
+    width: 400px;;
+    height: 40px;
+    float:center;
+    margin-bottom: 18px;
+    position:absolute; top:80%;left: 50%;transform:translate(-50%,-50%);
+
+}
+
+   .puntos{
+    padding: 8px 220px;
+    font-size: 30px;
+    float:right;
+    
+    
+  
+  }
+  
+  
+  .simbolo{
+    display:flex;
+     font-size:25px;
+      margin: 10px 1px;
+      float:center;
+  
+  }
+  .footer{
+      color:white;
+      float:center;
+  }
+  .like{  padding: 8px 220px;
+            font-size: 30px;
+        
+            float:right;
+        }
