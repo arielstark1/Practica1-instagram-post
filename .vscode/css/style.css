@@ -1,8 +1,9 @@
 body{ 
     background-color: black;max-width:600px;height:1000px;
+  
   }
   .card-post{
-    position:absolute; top:80%;left: 50%;transform:translate(-50%,-50%);
+    position:absolute; top:60%;left: 50%;transform:translate(-50%,-50%);
   background-color:white; width:325px;height:500px;
   margin:0%;
   padding:40px;
@@ -17,7 +18,6 @@ body{
     font-size: 10px;
   }
   .name{
-      font-size: 15px;
       margin: 0 ;
       float:center;
   }
@@ -49,8 +49,8 @@ body{
     width: 400px;;
     height: 40px;
     float:center;
-    margin-bottom: 18px;
-    position:absolute; top:20%;left: 50%;transform:translate(-50%,-50%);
+    margin-bottom: 10px;
+    position:absolute; top: 10px;left: 50%;transform:translate(-50%,-70%);
   }
 .parrafo{
 
@@ -58,7 +58,9 @@ body{
     height: 40px;
     float:center;
     margin-bottom: 18px;
-    position:absolute; top:80%;left: 50%;transform:translate(-50%,-50%);
+    position:relative; top:80%;left: 50%;transform:translate(-50%,-50%);
+    line-height:100px;
+
 
 }
 
@@ -93,4 +95,13 @@ body{
 
 .fa-comment{
   margin-right: 10px;
+}
+.tamaño-letra{
+  font-size: 15px;
+  line-height:2px;
+
+}
+.tamaño-cuerpo{
+  font-size: 19px;
+  line-height:18px;
 }
